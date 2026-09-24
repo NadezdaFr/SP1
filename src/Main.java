@@ -10,6 +10,7 @@ void main() {
     System.out.println(myBand);
     //System.out.println(mySecondBand);
     System.out.println(myBand.getBalance());
+    System.out.println(myBand.getName());
 
 
 
